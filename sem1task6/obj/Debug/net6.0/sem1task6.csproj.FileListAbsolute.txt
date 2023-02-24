@@ -1,0 +1,15 @@
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\obj\Debug\net6.0\sem1task6.csproj.AssemblyReference.cache
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\obj\Debug\net6.0\sem1task6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\obj\Debug\net6.0\sem1task6.AssemblyInfoInputs.cache
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\obj\Debug\net6.0\sem1task6.AssemblyInfo.cs
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\obj\Debug\net6.0\sem1task6.csproj.CoreCompileInputs.cache
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\bin\Debug\net6.0\sem1task6.exe
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\bin\Debug\net6.0\sem1task6.deps.json
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\bin\Debug\net6.0\sem1task6.runtimeconfig.json
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\bin\Debug\net6.0\sem1task6.dll
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\bin\Debug\net6.0\sem1task6.pdb
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\obj\Debug\net6.0\sem1task6.dll
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\obj\Debug\net6.0\refint\sem1task6.dll
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\obj\Debug\net6.0\sem1task6.pdb
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\obj\Debug\net6.0\sem1task6.genruntimeconfig.cache
+C:\Users\MSI5\Desktop\SeminarsC#\sem1task6\obj\Debug\net6.0\ref\sem1task6.dll
