@@ -1,0 +1,15 @@
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\obj\Debug\net6.0\sem2task10.csproj.AssemblyReference.cache
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\obj\Debug\net6.0\sem2task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\obj\Debug\net6.0\sem2task10.AssemblyInfoInputs.cache
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\obj\Debug\net6.0\sem2task10.AssemblyInfo.cs
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\obj\Debug\net6.0\sem2task10.csproj.CoreCompileInputs.cache
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\bin\Debug\net6.0\sem2task10.exe
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\bin\Debug\net6.0\sem2task10.deps.json
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\bin\Debug\net6.0\sem2task10.runtimeconfig.json
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\bin\Debug\net6.0\sem2task10.dll
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\bin\Debug\net6.0\sem2task10.pdb
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\obj\Debug\net6.0\sem2task10.dll
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\obj\Debug\net6.0\refint\sem2task10.dll
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\obj\Debug\net6.0\sem2task10.pdb
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\obj\Debug\net6.0\sem2task10.genruntimeconfig.cache
+C:\Users\MSI5\Desktop\SeminarsC#\sem2task10\obj\Debug\net6.0\ref\sem2task10.dll
