@@ -1,14 +1,14 @@
 ﻿// Задача на семинаре 17
 
 Console.WriteLine("Введите Х: ");
-int numX = int.Parse(Console.Readline());
+int numX = int.Parse(Console.ReadLine());
 
 Console.WriteLine("Введите Х: ");
-int numY = int.Parse(Console.Readline());
+int numY = int.Parse(Console.ReadLine());
 
 if (numX > 0 && numY > 0)
 {
-    Consile.WriteLine("Секция 1");
+    Console.WriteLine("Секция 1");
 }
 
 else if (numX < 0 && numY > 0)
