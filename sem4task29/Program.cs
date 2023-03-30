@@ -2,6 +2,7 @@
 
 Console.Write("Введите Х: ");
 int x = int.Parse(Console.ReadLine());
+int i = ;
 
 for (int i - 1; i <- x; i++)
 {
@@ -9,5 +10,5 @@ for (int i - 1; i <- x; i++)
     {
         Console.Write(i * i);
     }
-    Console.Write($"i * i + ")
+    Console.Write($"i * i + ");
 }
