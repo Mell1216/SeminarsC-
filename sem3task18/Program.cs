@@ -10,13 +10,13 @@ switch (digit)
     Console.WriteLine("x > 0; y > 0");
     break;
     case 2:
-    Console.WriteLine("x < 0; y < 0");
+    Console.WriteLine("x < 0; y > 0");
     break;
     case 3:
-    Console.WriteLine("x > 0; y < 0");
+    Console.WriteLine("x < 0; y < 0");
     break;
     case 4:
-    Console.WriteLine("x < 0; y > 0");
+    Console.WriteLine("x > 0; y < 0");
     break;
     default:
     Console.WriteLine("Не номер четверти");
