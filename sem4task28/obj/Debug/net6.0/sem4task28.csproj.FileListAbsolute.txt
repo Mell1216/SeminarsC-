@@ -1,0 +1,15 @@
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\bin\Debug\net6.0\sem4task28.exe
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\bin\Debug\net6.0\sem4task28.deps.json
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\bin\Debug\net6.0\sem4task28.runtimeconfig.json
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\bin\Debug\net6.0\sem4task28.dll
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\bin\Debug\net6.0\sem4task28.pdb
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\obj\Debug\net6.0\sem4task28.csproj.AssemblyReference.cache
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\obj\Debug\net6.0\sem4task28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\obj\Debug\net6.0\sem4task28.AssemblyInfoInputs.cache
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\obj\Debug\net6.0\sem4task28.AssemblyInfo.cs
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\obj\Debug\net6.0\sem4task28.csproj.CoreCompileInputs.cache
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\obj\Debug\net6.0\sem4task28.dll
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\obj\Debug\net6.0\refint\sem4task28.dll
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\obj\Debug\net6.0\sem4task28.pdb
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\obj\Debug\net6.0\sem4task28.genruntimeconfig.cache
+C:\Users\MSI5\Desktop\SeminarsC#\sem4task28\obj\Debug\net6.0\ref\sem4task28.dll
