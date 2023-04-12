@@ -1,16 +1,21 @@
 ﻿// Напишите цикл, который принимает на вход два числа (A и B) и выводит число А в натуральную степень В
 
-double step(double a, double b)
-{
-    double result = Math.Pow(a, b);
-    return result;
+void DegreeOfNumber(double arg1, double arg2)                
+{                                                    
+    double ans = Math. Pow(arg1, arg2);
+
+    Console.WriteLine("Число : ") ;
+    Console.Write(arg1);
+    Console.Write(" В степени : ") ;
+    Console.Write(arg2);
+    Console.Write(" = ") ;
+    Console.Write(ans);
 }
 
-System.Console.Write("Введите число A: ");
-double a = double.Parse(Console.ReadLine());
+Console.WriteLine("Введите число которое хотите возвести в степень");
+double A = double.Parse(Console.ReadLine());
 
-System.Console.Write("Введите число B: ");
-double b = double.Parse(Console.ReadLine());
+Console.WriteLine("Введите степень числа");
+double B = double.Parse(Console.ReadLine());
 
-double number = step(a, b);
-System.Console.WriteLine($"{a} в степени {b} = {number}");
+DegreeOfNumber(A,B);
