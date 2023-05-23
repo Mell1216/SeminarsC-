@@ -3,7 +3,7 @@
 Console.Write("Введите число: ");
 int num = int.Parse(Console.ReadLine());
 
-if(num < 1000 & num > 100 );
+if(num < 1000 & num > 100 )
 {
     int sec = num % 100;
     int def = sec / 10;
@@ -13,4 +13,4 @@ if(num < 1000 & num > 100 );
 
 num = new Random().Next(100, 1000);
 int secNum = num / 10 % 10;
-Console.WriteLine($"Вторая цифра ы числе {num} -> {secNum}"); 
+Console.WriteLine($"Вторая цифра ы числе {num} ---> {secNum}"); 
