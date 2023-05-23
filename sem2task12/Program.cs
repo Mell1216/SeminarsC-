@@ -11,10 +11,10 @@ int sum = num1 % num2;
 
 if(sum == 0)
 {
-    Console.WriteLine($"Число кратно {num2}");
+    Console.WriteLine($"Число кратно: {num2}");
 }
 else
 {
-    Console.WriteLine($"Число некратно {num2}");
-    Console.WriteLine($"Остаток от деления {sum}");
+    Console.WriteLine($"Число некратно: {num2}");
+    Console.WriteLine($"Остаток от деления: {sum}");
 }
